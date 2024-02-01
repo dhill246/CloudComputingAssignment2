@@ -1,0 +1,10 @@
+Assignment 2 - rPlace
+
+By: Daniel Hill, Toby Guenthner, Ryan Perez
+
+This project performs processing and analysis on rPlace.
+
+The data can be downloaded here: https://placedata.reddit.com/data/canvas-history/2023/index.html
+
+Our code assumes the folder ZipFiles/ within the WORK directory has been filled with all the zipped
+csv files.
